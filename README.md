@@ -126,7 +126,15 @@ cd ios && pod install --repo-update && cd ..
 
 ## 📄 许可证
 
-本项目仅供学习参考。
+本项目基于 [MIT License](./LICENSE) 开源。
+
+## 🔒 隐私
+
+本应用不联网、不收集任何用户数据，所有记录仅存于设备本地。详见 [隐私政策](./PRIVACY_POLICY.md)。
+
+## 📑 版本记录
+
+见 [CHANGELOG.md](./CHANGELOG.md)。
 
 <div align="center">
 
