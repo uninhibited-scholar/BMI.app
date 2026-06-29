@@ -1,0 +1,37 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+.DS_Store
+.atom/
+.buildlog/
+.history
+.swiftpm/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication
+app.*.symbols
+app.*.map.json
+
+# Android Studio
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Platform build artifacts
+**/Pods/
+**/.symlinks/
+android/local.properties
